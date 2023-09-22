@@ -1,0 +1,19 @@
+{
+  "name": "b-web-200-cot-2-2-epytodo-jores.da-trinidade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2027/B-WEB-200-COT-2-2-epytodo-jores.da-trinidade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2027/B-WEB-200-COT-2-2-epytodo-jores.da-trinidade/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2027/B-WEB-200-COT-2-2-epytodo-jores.da-trinidade#readme"
+}
